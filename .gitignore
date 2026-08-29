@@ -1,0 +1,8 @@
+venv/
+ghidra_proj/
+main
+main_stripped
+main_rt
+main_rt_stripped
+*.o
+__pycache__/
